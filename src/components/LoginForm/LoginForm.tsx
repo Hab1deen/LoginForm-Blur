@@ -1,7 +1,7 @@
-// import React from 'react'
+
 import PersonIcon from '@mui/icons-material/Person';
 import LockIcon from '@mui/icons-material/Lock';
-import './LoginForm.css'
+import '../LoginForm/LoginForm.css';
 
 function LoginForm() {
   return (
